@@ -5,17 +5,7 @@ JENKINS
 GITS
 ECLIPSE
 
-AWS----------------------------
-Already created
-Email : h47j@gmail.com / L@123
 
-Git Hub----------------------------
-User: h47j
-Email: hitman47jassi@gmail.com
-T25$44
-
-Jenkins----------------------------
-jassi/L@123
 ----------------------------SERVER Setup------------------------------------------------------------------------------------
 	Create EC2 instance
 	Remember to generate PEM file.
